@@ -1,29 +1,11 @@
-# README #
+# ALÍPIO DAURICIO / FRONT-END 
+Seja Bem Vindo (a) ao meu Portfolio pessoal ❤
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Eu me chamo Alipio Dauricio, tenho 18 anos e aqui você irá encontrar meu projeto mais atualizado contendo minhas informações currículares em forma de site, aplicando na prática conceitos vistos em cursos e na graduação.
+ Agradeço por ter vindo até aqui. Sinta-se a vontade para explorar todos as funcionalidades! Obrigado :)
+ 
+## Contato ↴
+#### ➥ ☎︎ [LinkedIn](https://www.linkedin.com/in/alipiodauricio/):
+#### ➥ ☎︎ [Instagram](https://www.instagram.com/adauricio.k1p/):
+#### ➥ ✉ [Email](alipiodauricio@gmail.com): 
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
